@@ -1,1 +1,2 @@
 # CommerceX
+CommerceX is a fully functional SwiftUI-based eCommerce iOS app that allows users to sign up, browse fashion products, manage their favorites and cart, and complete purchases using Stripe. It uses Firebase for authentication, Firestore for data storage, and Core design patterns like MVVM and Repository. Stripe’s PaymentSheet handles the checkout experience, while a lightweight Glitch-hosted backend manages secure customer and payment object creation. Additional features include remote config-based theming, order history, and analytics tracking.
